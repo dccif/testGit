@@ -7,3 +7,5 @@ Check ssh
 And Some
 Test sign commit
 Again test Sign
+
+test gpg up
