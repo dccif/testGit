@@ -10,3 +10,4 @@ Test sign commit
 Again test Sign
 
 test mygpg sign
+test gpg pass store
